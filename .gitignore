@@ -5,3 +5,4 @@ Release
 Thumbs.db
 nbproject/
 generated.txt
+*.class
