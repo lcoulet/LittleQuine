@@ -1,0 +1,7 @@
+dist/
+missions/
+build/
+Release
+Thumbs.db
+nbproject/
+generated.txt
